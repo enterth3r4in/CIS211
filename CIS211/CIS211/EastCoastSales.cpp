@@ -9,7 +9,10 @@ int main()
 	float companySales = 4600000.0;
 	float eastCoastSales;
 
+	eastCoastSales = companySales * eastCoastPercentage;
 
+	//Fixed is used to prevent scientific notation being used by default.
+	cout << "The East Coast Division generated " << fixed << eastCoastSales << " of total company sales." << endl;
 
 	return 0;
 }

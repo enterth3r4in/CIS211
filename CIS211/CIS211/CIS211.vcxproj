@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\pr2-17.cpp" />
+    <ClCompile Include="EastCoastSales.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E8BCF260-ED4F-499D-A2E4-9DFD91408829}</ProjectGuid>
